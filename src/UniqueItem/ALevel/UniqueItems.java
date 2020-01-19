@@ -21,6 +21,6 @@ public class UniqueItems {
                 UniqueItem = UniqueItem - 1;
             }
         }
-        System.out.print("Колличество уникальных чисел в массиве = " + UniqueItem);
+        System.out.print("Количество уникальных чисел в массиве = " + UniqueItem);
     }
 }
